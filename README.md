@@ -1,2 +1,2 @@
-# Git_project
-dzk's repository
+# leetcode_project
+leetcode算法刷题
